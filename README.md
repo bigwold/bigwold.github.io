@@ -1,4 +1,4 @@
-bigwold
+bigwold.github.io
 =======
 
-Social Network
+Site of project BigWold
